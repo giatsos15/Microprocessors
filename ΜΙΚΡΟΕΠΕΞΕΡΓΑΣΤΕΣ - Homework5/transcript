@@ -1,0 +1,7 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# error: Layout::Clairvoyance can't read "map(?)": no such element in array
+# can't read "map(?)": no such element in array
+#     while executing
+# "Layout::Clairvoyance"
+# OpenFile {C:/Users/giats/Desktop/Microproccessors-lab/œ™š¡Ÿ• •ž•¡“‘£¤•£ - Homework5/d1s3202tb2.v} 
+# Load canceled
